@@ -7,7 +7,7 @@
 
 ## Description
 
-Ranking and classifications of people are hazards in their own right and should be handled with care.
+Ranking and classifications of people (or organisations/groups of people and resources associated with them) are hazards in their own right and should be handled with care.
 
 To see why, we can think about what happens when the ranking/classification is inaccurate, when people disagree with how they are ranked/classified, as well as who the ranking/classification is and is not working for, how it can be gamed, and what it is used to justify or explain.
 
